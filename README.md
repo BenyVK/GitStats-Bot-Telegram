@@ -201,4 +201,4 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## 📜 License
 
-[MIT](https://choosealicense.com/licenses/mit/) © [BenyVK](https://github.com/BenyVK)
+[BVK](https://choosealicense.com/licenses/mit/) © [BenyVK](https://github.com/BenyVK)
