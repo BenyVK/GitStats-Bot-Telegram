@@ -4,7 +4,7 @@ $githubToken  = "TOKEN_GITHUB_API";
 $apiBase      = "https://api.telegram.org/bot" . $botToken;
 $cacheDir     = __DIR__ . '/cache/';
 $usersFile    = __DIR__ . '/users.json';
-$sourceUrl    = "https://github.com/BenyVK/Profile-Bot-Telegram";
+$sourceUrl    = "https://github.com/BenyVK/GitStats-Bot-Telegram";
 
 if (!is_dir($cacheDir)) mkdir($cacheDir, 0755, true);
 if (!file_exists($usersFile)) file_put_contents($usersFile, '{}');
