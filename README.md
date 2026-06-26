@@ -201,4 +201,4 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## 📜 License
 
-[BVK](https://choosealicense.com/licenses/mit/) © [BenyVK](https://github.com/BenyVK)
+[BVK](https://github.com/BenyVK/GitStats-Bot-Telegram/blob/main/LICENSE) © [BenyVK](https://github.com/BenyVK)
